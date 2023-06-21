@@ -1,0 +1,72 @@
+/* App.css */
+
+.table{
+  margin-left: 70px;
+  margin-top: 60px;
+  width: 90%;
+  height: 450px;
+  background-color: black;
+  color: white;
+}
+.options-label{
+  color: antiquewhite;
+}
+body{
+  background-color: black;
+  height: 100vh;
+}
+
+.wrapper {
+  top: 0%;
+  left: 0%;
+  width: 100%;
+  height: 100%;
+  text-align: center;
+  bottom: 0;
+  right: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  margin-top: 18%;
+}
+
+.box{
+  margin-left: 100px; 
+  background-color: #36384f;   
+  color: white;
+  margin-top: 10px;  
+  
+}
+.super-app-theme--header{
+  background-color: #282b40;
+  color: #98a2b3;
+}
+.super-app-theme--cell{
+  color: #98a2b3;
+}
+.watchlistBox{
+  margin-left: 500px; 
+  background-color: black;   
+  color: white;
+  margin-top: 50px;
+}
+.super-app-theme-cell{
+  color: white;
+  height: 10px;
+  width: 10px;
+}
+.super-app-theme-header{
+  background-color: black;
+  color: white;
+}
+.super-app-theme-cell-bid{
+  color: rgb(54, 225, 231);
+  height: 10px;
+  width: 10px;
+}
+.super-app-theme-cell-ask{
+  color: red;
+  height: 10px;
+  width: 10px;
+}
